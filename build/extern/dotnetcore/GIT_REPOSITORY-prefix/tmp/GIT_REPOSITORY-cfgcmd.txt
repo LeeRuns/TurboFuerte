@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-GUnix Makefiles;/home/lee/opt/TurboFuerte/build/extern/dotnetcore/GIT_REPOSITORY-prefix/src/GIT_REPOSITORY'

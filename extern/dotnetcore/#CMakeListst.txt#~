@@ -1,0 +1,8 @@
+# Script to Download and Install MS dot net core webservices
+
+project(dotnetcore)
+add_External(
+	GIT_REPOSITORY https://github.com/dotnet/cli.git
+	GIT_TAG "master"
+	SOURCE_DIR 
+)
